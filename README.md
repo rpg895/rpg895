@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hiii! I'm a 20 y/o freshman CS major at an insignificant community college in Illinois, hoping to transfer to UIUC (god willin).
+### I like to draw, knit, and play video games when I'm not working on schoolwork and coding !
+### I'm currently taking my first real programming class and learning Python
 
 <!--
 **rpg895/rpg895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
